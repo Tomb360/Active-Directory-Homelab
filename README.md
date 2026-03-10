@@ -11,7 +11,7 @@ Project showcasing the setup of Active Directory on a VM using Oracle VirtualBox
 
 - Oracle VirtualBox
 - <b>Windows Server 2019</b>
-- <b>Windows 11<b>
+- <b>Windows 10 Pro<b>
 - <b>PowerShell</b>
 
 <h2>Walkthrough:</h2>

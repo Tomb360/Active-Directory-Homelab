@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Project showcasing the setup of Active Directory on a VM using Oracle VirtualBox to simulate tasks such as setting up IP addressing, Making a domain Admin and creating new users with the use of a PowerShell script.
+This project demonstrates the configuration of Active Directory on a virtual machine using Oracle VirtualBox. It involves setting up IP addressing, creating a domain administrator account, and automating new user creation with a PowerShell script. Upon completion, a small corporate network is simulated by connecting a device to the domain controller's DHCP server to obtain internet access.
 <br />
 
 

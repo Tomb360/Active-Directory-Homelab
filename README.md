@@ -12,7 +12,7 @@ This project demonstrates the configuration of Active Directory on a virtual mac
 - Oracle VirtualBox
 - <b>Windows Server 2019</b>
 - <b>Windows 10 Pro<b>
-- <b>PowerShell</b>
+- <b>Windows PowerShell</b>
 
 <h2>Reference Video and Network Diagram</h2>
 

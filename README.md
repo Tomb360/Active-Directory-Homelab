@@ -55,7 +55,7 @@ Admins can reset their own passwords, but a common request an end user will make
 
 <img src="https://cdn.discordapp.com/attachments/1480782649818615900/1482247064988418151/image.png?ex=69b641a7&is=69b4f027&hm=6f911f25a95702df73e61802addc84fec76273f4159da453671efcf45f984aea&" height="80%" width="80%"/>
 
-I can choose to auto create a password for the user to sign in, another option if I am direct communication with the user is to create an easily memorable phrase that they use to login to their account, then be prompted to reset their password once access to their account has been regained.
+A temporary password can be auto created, or I can create my own. This may be a better option if I am direct communication with the user and can use an easily memorable phrase to login to their account, then be prompted to reset their password once access has been regained.
 
 <img src="https://cdn.discordapp.com/attachments/1480782649818615900/1482247561569108100/image.png?ex=69b6421d&is=69b4f09d&hm=0c9167a4942361860a9d0033ec2267fd7bf9657cbddfad6cc17fe3b757bfcec6&" height="80%" width="80%"/>
 
@@ -70,7 +70,7 @@ Offboarding is just as critical as onboarding because it secures the business wh
 <img src="https://cdn.discordapp.com/attachments/1480782649818615900/1482251124340691067/image.png?ex=69b6456e&is=69b4f3ee&hm=c731c8cf5f897be60182d021bef34e0965011f14d5c981bf4979e728d13f52d0&" height="80%" width="80%"/>
 
 Licenses must then be removed so the company isnt paying for any inactive users, this is done by simply clearing the checkboxes.
-If there is any relevent data in the users mail needed for operations to continue, it can be turned into a shared mailbox for the relevent users to have access to. This could be requested by a manager if required.
+If there is any relevant data in the users mail needed for operations to continue, it can be turned into a shared mailbox for the relevent users to have access to. This could be requested by a manager if required.
 
 <img src="https://cdn.discordapp.com/attachments/1480782649818615900/1482251202644148264/image.png?ex=69b64581&is=69b4f401&hm=f637e943cb619afa7c82468cde1ecdf40748ba687ad637e380d98344cbfb09e6&" height="80%" width="80%"/>
 

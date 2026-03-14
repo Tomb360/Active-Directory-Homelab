@@ -44,7 +44,7 @@ Here I create a user named steve and can assign the relevant licences to the use
 <p align="center">
 Role Based Access Control<br/>
 <p align="left">
-Understanding Role Based Access Control is important as it governs what a user can actually do once logged in. The analyst needs to know which security groups or roles correspond to which job functions to assign the correct permissions and prevent a user from having too much or too little access. This can be done in Entra by navigating to the assigned roles of a user. In this example, Steve will manage SharePoint so I assigned the Sharepoint Admin role to the user.
+Understanding Role Based Access Control is important as it governs what a user can actually do once logged in. The analyst needs to know which roles correspond to which job functions to assign the correct permissions. This prevents a user from having too much or too little access. This can be done in Entra by navigating to the assigned roles of a user. In this example, Steve will manage SharePoint so I assigned the Sharepoint Admin role to the user.
 <img src="https://cdn.discordapp.com/attachments/1480782649818615900/1482244338606936287/image.png?ex=69b63f1d&is=69b4ed9d&hm=f790658316991103cf2d2b2c1e15ec154d97df56f15ba1f99dc051a8e8f366bf&" height="80%" width="80%"/>
 <img src="https://cdn.discordapp.com/attachments/1480782649818615900/1482244854372372631/image.png?ex=69b63f98&is=69b4ee18&hm=353b0295d142e9ba765ccb634c061eb882b76d4f44ba2a4bef418687ecb419c7&" height="80%" width="80%"/>
 
